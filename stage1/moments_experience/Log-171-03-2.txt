@@ -1,0 +1,4 @@
+Orientation is: 
+-44.99999999513561
+Eccentricity is: 
+1.7775028693994661
