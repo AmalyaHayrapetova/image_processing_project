@@ -1,0 +1,2 @@
+Stage 2
+2. When using matching histogram plugin, we cannot see actuall changes -  the behaviour works proper, it seams all the same. But the image get a little bit lighter. You should watch very attentive to notice it.
