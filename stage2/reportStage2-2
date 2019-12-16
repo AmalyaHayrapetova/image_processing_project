@@ -1,0 +1,2 @@
+Stage 2
+2. I do some experiments - applying on all my original images MatchHistogram.java. I have noticed that those images that do not corresponding to Standart Behaviour, after applying any of Binary_Layer plugin, they imedatly become white. So I do not upload those photos. Contrary to it, on the images that corresponding to Standart Behaviour I got a good result. But after it I cannot claim that they have Standart Behaviour. Please see images in Stage2-2 subfolder.
