@@ -1,0 +1,3 @@
+Theoritechaly I know how to do this task. But I do not have enough time for it, sory. 
+As I use Min,Meadia,Max filters, I should change my Matrix(In convolve) corresponding to this filters. For min I should get all 
+neighbours of each pixel and write min value in it, for median - meadin etc. Then apply that matrix to my image. 
